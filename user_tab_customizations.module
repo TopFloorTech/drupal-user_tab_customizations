@@ -30,6 +30,7 @@ function user_tab_customizations_menu_local_tasks_alter(&$data, $route_name) {
   $alter = [
     'entity.user.canonical' => 'My Account',
     'entity.user.edit_form' => 'My Profile',
+    'entity.profile.user_profile_form:profile.type.customer' => 'My Addresses',
   ];
 
   foreach ($alter as $route => $title) {
