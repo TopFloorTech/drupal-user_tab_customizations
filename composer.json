@@ -1,0 +1,14 @@
+{
+  "name": "drupal/user_tab_customizations",
+  "type": "drupal-module",
+  "description": "Customizations for the User account local tasks",
+  "keywords": ["Drupal"],
+  "license": "GPL-2.0+",
+  "homepage": "https://www.drupal.org/project/user_tab_customizations",
+  "minimum-stability": "dev",
+  "support": {
+    "issues": "https://www.drupal.org/project/issues/user_tab_customizations",
+    "source": "http://cgit.drupalcode.org/user_tab_customizations"
+  },
+  "require": { }
+}

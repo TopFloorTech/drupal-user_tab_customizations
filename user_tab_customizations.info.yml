@@ -1,0 +1,5 @@
+name: User Tab Customizations
+type: module
+description: Customizations for the User account local tasks
+core: 8.x
+package: Custom
